@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p>I'm hosted at prabhjotsingh.org .</p>
+<p>http://www.prabhjotsingh.org </p>
 </body>
 </html>
